@@ -1,0 +1,8 @@
+C:\Users\alexa\source\repos\aplicatie\aplicatie\Shared\bin\Debug\netstandard2.1\aplicatie.Shared.deps.json
+C:\Users\alexa\source\repos\aplicatie\aplicatie\Shared\bin\Debug\netstandard2.1\aplicatie.Shared.dll
+C:\Users\alexa\source\repos\aplicatie\aplicatie\Shared\bin\Debug\netstandard2.1\aplicatie.Shared.pdb
+C:\Users\alexa\source\repos\aplicatie\aplicatie\Shared\obj\Debug\netstandard2.1\aplicatie.Shared.AssemblyInfoInputs.cache
+C:\Users\alexa\source\repos\aplicatie\aplicatie\Shared\obj\Debug\netstandard2.1\aplicatie.Shared.AssemblyInfo.cs
+C:\Users\alexa\source\repos\aplicatie\aplicatie\Shared\obj\Debug\netstandard2.1\aplicatie.Shared.csproj.CoreCompileInputs.cache
+C:\Users\alexa\source\repos\aplicatie\aplicatie\Shared\obj\Debug\netstandard2.1\aplicatie.Shared.dll
+C:\Users\alexa\source\repos\aplicatie\aplicatie\Shared\obj\Debug\netstandard2.1\aplicatie.Shared.pdb

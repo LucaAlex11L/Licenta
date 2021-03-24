@@ -1,0 +1,7 @@
+C:\Users\alexa\source\repos\aplicatie\aplicatie\Server\obj\Debug\netcoreapp3.1\aplicatie.Server.csprojAssemblyReference.cache
+C:\Users\alexa\source\repos\aplicatie\aplicatie\Server\obj\Debug\netcoreapp3.1\aplicatie.Server.AssemblyInfoInputs.cache
+C:\Users\alexa\source\repos\aplicatie\aplicatie\Server\obj\Debug\netcoreapp3.1\aplicatie.Server.AssemblyInfo.cs
+C:\Users\alexa\source\repos\aplicatie\aplicatie\Server\obj\Debug\netcoreapp3.1\aplicatie.Server.csproj.CoreCompileInputs.cache
+C:\Users\alexa\source\repos\aplicatie\aplicatie\Server\obj\Debug\netcoreapp3.1\aplicatie.Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\alexa\source\repos\aplicatie\aplicatie\Server\obj\Debug\netcoreapp3.1\aplicatie.Server.RazorAssemblyInfo.cache
+C:\Users\alexa\source\repos\aplicatie\aplicatie\Server\obj\Debug\netcoreapp3.1\aplicatie.Server.RazorAssemblyInfo.cs
